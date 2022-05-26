@@ -8,12 +8,6 @@
         
         font-family: "Montserrat", sans-serif;
         background: #2a2a2a;
-        text-rendering: optimizeLegibility;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-}
         }
         
         .content {
