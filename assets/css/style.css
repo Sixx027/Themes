@@ -55,16 +55,4 @@
         
     }
 }
-
-@media only screen and (max-width: 700px) {
-
-    .libertine .iconWrapper {
-        width: 72vw;
-        height: 72vw;
-    }
-
-    .libertine .iconWrapper:hover {
-        width: 74vw;
-        height: 74vw;
-    }
 }
